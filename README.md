@@ -1,4 +1,4 @@
-![Example Image](images/example.png) <br>
+![Car park img](img/20211224_225916.jpg) <br>
 The objective of this project is to build a smart car park with following features: <br>
 (1)auto barrier system, <br>
 (2)parking guidance system <br>
